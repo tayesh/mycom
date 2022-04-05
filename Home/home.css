@@ -1,0 +1,58 @@
+.heading {
+    font-family: 'Lobster',
+        cursive;
+    font-size: 2.5em;
+
+}
+
+.description {
+    font-size: larger;
+    text-align: start;
+    font-weight: 600;
+    color: rgb(79, 77, 77);
+}
+
+#brown {
+    color: rgb(103, 33, 8);
+}
+
+.button {
+    background-color: rgba(148, 59, 4, 0.876);
+    border: 4px solid rgba(88, 34, 7, 0.879);
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    font-weight: 600;
+    width: 25%;
+    color: rgba(0, 0, 0, 0.785);
+    padding: 5px;
+    margin: 60px 0 0 10px;
+
+}
+
+.review-secion {
+    text-align: center;
+}
+
+.Customer-review-heading {
+    border-bottom: 3px solid rgb(135, 222, 206);
+    width: 50%;
+}
+
+.review-button {
+    background-color: rgba(4, 246, 85, 0.876);
+    border: 4px solid rgba(101, 199, 94, 0.879);
+    border-radius: 20px;
+    font-family: 'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    width: 50%;
+    color: rgb(0, 0, 0);
+    margin: 60px 0 0 10px;
+}
+
+.review-button:hover {
+    border: 4px solid rgba(70, 142, 66, 0.879);
+}
